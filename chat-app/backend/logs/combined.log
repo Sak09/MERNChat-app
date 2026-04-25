@@ -1,0 +1,102 @@
+2026-04-12 15:05:59 [info]: MongoDB connected: localhost
+2026-04-12 15:05:59 [info]: 🚀 Server running on port 5000 [development]
+2026-04-12 15:05:59 [info]: Redis main connected
+2026-04-12 15:11:13 [error]: [POST] /api/auth/register - 400: Username can only contain letters, numbers, and underscores
+2026-04-12 15:11:21 [error]: [POST] /api/auth/register - 400: Username can only contain letters, numbers, and underscores
+2026-04-12 15:11:26 [error]: [POST] /api/auth/register - 400: Username can only contain letters, numbers, and underscores
+2026-04-12 15:11:37 [debug]: Socket connected: SgaDgI9bG96Veq8NAAAB user: 69db68d1a20099ed86307ff1
+2026-04-12 15:13:02 [debug]: Socket connected: hK9Ux7qxHCLZhMTJAAAD user: 69db6925a20099ed86307ff8
+2026-04-12 15:13:43 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:13:43 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:13:43 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:16:19 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:16:19 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:16:19 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:17:23 [debug]: Socket disconnected: hK9Ux7qxHCLZhMTJAAAD user: 69db6925a20099ed86307ff8
+2026-04-12 15:17:24 [debug]: Socket connected: Ttt6boJZCRXcPZQFAAAF user: 69db6925a20099ed86307ff8
+2026-04-12 15:17:26 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:17:26 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:17:26 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:19:24 [debug]: Socket disconnected: Ttt6boJZCRXcPZQFAAAF user: 69db6925a20099ed86307ff8
+2026-04-12 15:19:24 [debug]: Socket disconnected: SgaDgI9bG96Veq8NAAAB user: 69db68d1a20099ed86307ff1
+2026-04-12 15:20:42 [debug]: Socket connected: lS4sVeVMAprIfym1AAAH user: 69db6925a20099ed86307ff8
+2026-04-12 15:20:43 [debug]: Socket connected: Vwd6DoxcOhZDnjQeAAAJ user: 69db68d1a20099ed86307ff1
+2026-04-12 15:23:49 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:23:49 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:23:49 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:24:23 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:24:23 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:24:23 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:12 [debug]: Socket disconnected: lS4sVeVMAprIfym1AAAH user: 69db6925a20099ed86307ff8
+2026-04-12 15:26:12 [debug]: Socket connected: Wpcc73FYvxDx2hVNAAAL user: 69db6925a20099ed86307ff8
+2026-04-12 15:26:13 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:13 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:13 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:45 [debug]: Processing message job 1 for conversation 69db694fa20099ed86308002
+2026-04-12 15:26:46 [debug]: Message job 1 completed: 69db6c5da20099ed863080aa
+2026-04-12 15:26:59 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:59 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:26:59 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:27:12 [debug]: Socket disconnected: Vwd6DoxcOhZDnjQeAAAJ user: 69db68d1a20099ed86307ff1
+2026-04-12 15:27:13 [debug]: Socket connected: KZyMIobYSlAdIOfEAAAN user: 69db68d1a20099ed86307ff1
+2026-04-12 15:27:16 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:27:16 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:27:16 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:28:27 [debug]: Processing message job 2 for conversation 69db694fa20099ed86308002
+2026-04-12 15:28:27 [debug]: Message job 2 completed: 69db6cc3a20099ed863080ce
+2026-04-12 15:28:45 [debug]: Socket disconnected: Wpcc73FYvxDx2hVNAAAL user: 69db6925a20099ed86307ff8
+2026-04-12 15:28:46 [debug]: Socket connected: lqQWv8ttYeX83muOAAAP user: 69db6925a20099ed86307ff8
+2026-04-12 15:28:48 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:28:48 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:28:48 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:28:58 [debug]: Socket disconnected: lqQWv8ttYeX83muOAAAP user: 69db6925a20099ed86307ff8
+2026-04-12 15:28:58 [debug]: Socket connected: k16eQzbTaVpf473wAAAR user: 69db6925a20099ed86307ff8
+2026-04-12 15:29:00 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:29:00 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:29:00 [debug]: User 69db6925a20099ed86307ff8 joined conv:69db694fa20099ed86308002
+2026-04-12 15:29:07 [debug]: Socket disconnected: KZyMIobYSlAdIOfEAAAN user: 69db68d1a20099ed86307ff1
+2026-04-12 15:29:08 [debug]: Socket connected: SADbwYSh-RKcWyfYAAAT user: 69db68d1a20099ed86307ff1
+2026-04-12 15:29:10 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:29:10 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:29:10 [debug]: User 69db68d1a20099ed86307ff1 joined conv:69db694fa20099ed86308002
+2026-04-12 15:37:03 [debug]: Socket disconnected: k16eQzbTaVpf473wAAAR user: 69db6925a20099ed86307ff8
+2026-04-12 15:47:12 [debug]: Socket disconnected: SADbwYSh-RKcWyfYAAAT user: 69db68d1a20099ed86307ff1
+2026-04-12 15:47:14 [debug]: Socket connected: fXcstc15HtGJpgTeAAAV user: 69db68d1a20099ed86307ff1
+2026-04-12 15:47:17 [debug]: Socket disconnected: fXcstc15HtGJpgTeAAAV user: 69db68d1a20099ed86307ff1
+2026-04-12 16:49:56 [debug]: Socket connected: smZvmpbxKwX0-g6DAAAX user: 69db68d1a20099ed86307ff1
+2026-04-12 17:41:48 [debug]: Socket disconnected: smZvmpbxKwX0-g6DAAAX user: 69db68d1a20099ed86307ff1
+2026-04-12 17:41:53 [debug]: Socket connected: ZG4ZQVgIb-307icKAAAZ user: 69db68d1a20099ed86307ff1
+2026-04-12 17:47:03 [debug]: Socket disconnected: ZG4ZQVgIb-307icKAAAZ user: 69db68d1a20099ed86307ff1
+2026-04-12 17:49:23 [debug]: Socket connected: aYpKQa-yTm1INyB_AAAb user: 69db68d1a20099ed86307ff1
+2026-04-12 18:01:34 [debug]: Socket disconnected: aYpKQa-yTm1INyB_AAAb user: 69db68d1a20099ed86307ff1
+2026-04-12 18:02:49 [debug]: Socket connected: WN9-yrA1NjYmhWkMAAAd user: 69db68d1a20099ed86307ff1
+2026-04-12 18:57:35 [debug]: Socket disconnected: WN9-yrA1NjYmhWkMAAAd user: 69db68d1a20099ed86307ff1
+2026-04-12 18:57:38 [debug]: Socket connected: tc4-Zmqd3ojPPJkgAAAf user: 69db68d1a20099ed86307ff1
+2026-04-12 19:24:15 [debug]: Socket disconnected: tc4-Zmqd3ojPPJkgAAAf user: 69db68d1a20099ed86307ff1
+2026-04-12 19:24:18 [debug]: Socket connected: kE9lYuxzdgW2IMuUAAAh user: 69db68d1a20099ed86307ff1
+2026-04-12 20:10:31 [debug]: Socket disconnected: kE9lYuxzdgW2IMuUAAAh user: 69db68d1a20099ed86307ff1
+2026-04-12 20:10:36 [debug]: Socket connected: smAp9zYl5IkbOxr2AAAj user: 69db68d1a20099ed86307ff1
+2026-04-12 20:40:08 [debug]: Socket disconnected: smAp9zYl5IkbOxr2AAAj user: 69db68d1a20099ed86307ff1
+2026-04-12 20:40:09 [debug]: Socket connected: GU7PoRpcwCnR4WHXAAAl user: 69db68d1a20099ed86307ff1
+2026-04-12 20:40:13 [debug]: Socket disconnected: GU7PoRpcwCnR4WHXAAAl user: 69db68d1a20099ed86307ff1
+2026-04-12 21:16:38 [debug]: Socket connected: dNupLaglW7kEFCpYAAAn user: 69db68d1a20099ed86307ff1
+2026-04-12 22:04:11 [debug]: Socket disconnected: dNupLaglW7kEFCpYAAAn user: 69db68d1a20099ed86307ff1
+2026-04-12 22:04:14 [debug]: Socket connected: tbdMLZDqhBEmxDHGAAAp user: 69db68d1a20099ed86307ff1
+2026-04-12 22:16:19 [debug]: Socket disconnected: tbdMLZDqhBEmxDHGAAAp user: 69db68d1a20099ed86307ff1
+2026-04-12 22:16:22 [debug]: Socket connected: wIN97StB5xJhaVadAAAr user: 69db68d1a20099ed86307ff1
+2026-04-12 22:19:53 [debug]: Socket disconnected: wIN97StB5xJhaVadAAAr user: 69db68d1a20099ed86307ff1
+2026-04-12 22:30:57 [debug]: Socket connected: co9GEQJen4f_dbE1AAAt user: 69db68d1a20099ed86307ff1
+2026-04-12 22:53:22 [debug]: Socket disconnected: co9GEQJen4f_dbE1AAAt user: 69db68d1a20099ed86307ff1
+2026-04-12 22:53:25 [debug]: Socket connected: 9XvfRoIWU0_LH9HkAAAv user: 69db68d1a20099ed86307ff1
+2026-04-12 23:31:11 [debug]: Socket disconnected: 9XvfRoIWU0_LH9HkAAAv user: 69db68d1a20099ed86307ff1
+2026-04-12 23:31:17 [debug]: Socket connected: HVWCAWsOC-DeAifVAAAx user: 69db68d1a20099ed86307ff1
+2026-04-17 00:20:36 [info]: MongoDB connected: localhost
+2026-04-17 00:20:36 [info]: 🚀 Server running on port 5000 [development]
+2026-04-17 00:20:36 [info]: Redis main connected
+2026-04-17 00:22:43 [info]: MongoDB connected: localhost
+2026-04-17 00:23:20 [info]: MongoDB connected: localhost
+2026-04-25 15:50:52 [info]: MongoDB connected: localhost
+2026-04-25 15:50:52 [info]: 🚀 Server running on port 5000 [development]
+2026-04-25 15:50:52 [info]: Redis main connected
+2026-04-25 15:52:42 [debug]: Socket connected: fky1wb5OJfwPOtuIAAAB user: 69db68d1a20099ed86307ff1
+2026-04-25 15:52:49 [debug]: Socket disconnected: fky1wb5OJfwPOtuIAAAB user: 69db68d1a20099ed86307ff1
